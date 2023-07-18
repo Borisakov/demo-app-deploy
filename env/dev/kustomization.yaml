@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/Borisakov/demo-app
-  newTag: latest
+  newTag: d9ff16976bd3afa580f36b1aa7dbde0868bfa9a8
